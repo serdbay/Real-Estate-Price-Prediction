@@ -17,7 +17,7 @@ Our dataset was obtained from the UCI dataset repository (Dua, D. and Graff, C. 
 - Python 3.10.5
 
 ## Setup
-Before getting started with the project you need to familiar with machine learning and especially regression algoritm and you need to download our "real_estate.csv" file provided in this project also 
+Before getting started with the project you need to familiar with machine learning and especially regression algoritm and you need to download our "real_estate.csv" file provided in this project.
 
 ## Usage
 Anyone dealing with the real estate price changes based on varous features may use this project as a template. Especially if you have a dataset similar to one including in this project and if you want to infer some info based on the features you can use this project.  
