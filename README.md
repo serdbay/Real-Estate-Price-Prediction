@@ -1,5 +1,5 @@
 # Real Estate Price Prediction
-In this challenge, we will use a dataset of real estate sales transactions to predict the price-per-unit of a property based on its features.
+In this challenge, we will use a dataset of real estate sales transactions to predict the price-per-unit of a property based on its features in here.
 
 ## Table of Contents
 * [General Info](#general-information)
